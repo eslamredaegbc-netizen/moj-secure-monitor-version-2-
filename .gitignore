@@ -1,9 +1,0 @@
-__pycache__/
-.streamlit/
-*.pyc
-*.pyo
-*.pyd
-data/*.db
-exports/*
-!exports/.gitkeep
-
